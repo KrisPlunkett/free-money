@@ -2,9 +2,9 @@
 
 > Experimenting with Javascript and the DOM
 
-## [demo image]
+## <a href="http://krisplunkett.github.io/free-money"><img src="/free-money.png"></a>
 
-## [demo link]
+## <a href="http://krisplunkett.github.io/free-money">DEMO</a>
 
 ### Features
 * A button for free money...
